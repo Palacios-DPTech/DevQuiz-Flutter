@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="" width="70" alt="Logo dev.quiz_"/>
+      <img src="https://raw.githubusercontent.com/Palacios-OPTIMOS/DevQuiz/main/assets/images/logo.png" width="70" alt="Logo dev.quiz_"/>
 </p>
 
 <h1 align="center">DevQuiz</h1>
