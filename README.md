@@ -33,7 +33,7 @@
 
 <h2 align="center">About 📖</h2>
 
-<p align="center">
+<p>
     This project was developed at Next Level Week, an intense week of studies, networking, friendship, group work, accompanied by a project developed by Rocketseat. from the 19th to the 25th of April. <br>
     This application is intended to be a Quiz for programmers to intensify their knowledge in programming through the exercises proposed by the application, where you have interactivity of questions and answers. <br>
     First NLW week concluded successfully and with a lot of presence in the community, helping other people and taking questions from same. Ready for another one!🚀 <br>
